@@ -1,0 +1,8 @@
+include *.txt
+include *.md
+include LICENSE
+include .gitignore
+include setup.cfg
+recursive-include tests *.py
+include yaogua/yaogua.json
+recursive-include yaogua/html_resource *

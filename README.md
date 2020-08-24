@@ -1,2 +1,16 @@
-# yao_gua
-本项目以周易摇卦桌面端小程序为主，同时提供pypi安装环境，除了基本的摇卦和基本的信息显示外，暂时不打算引入太多的解卦信息，将会提供摇卦历史记录功能。
+# yaogua
+周易摇卦小程序，提供了命令行接口和桌面端应用。
+
+## INSTALL
+```
+pip install yaogua
+```
+
+## USAGE
+In command just input `yaogua` to yao yi gua.
+
+Or you can input `yaogua_gui` to use the gui app. the gui showing below.
+
+## gui
+![img](yaogua_gui.png)
+
