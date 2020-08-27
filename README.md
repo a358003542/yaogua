@@ -14,3 +14,6 @@ Or you can input `yaogua_gui` to use the gui app. the gui showing below.
 ## gui
 ![img](yaogua_gui.png)
 
+## exe下载
+
+[下载链接](https://1drv.ms/u/s!AuCYFvwp2KHMgo18rdSRLjpXHeucUg?e=wrU2qy)
