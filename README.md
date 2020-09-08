@@ -22,4 +22,4 @@ Or you can input `yaogua_gui` to use the gui app. the gui showing below.
 
 ## 视频讲解
 
-<iframe width="638" height="493" src="//player.bilibili.com/player.html?aid=839523691&bvid=BV1F54y1m7E1&cid=233400733&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[https://www.bilibili.com/video/BV1F54y1m7E1/](https://www.bilibili.com/video/BV1F54y1m7E1/)
