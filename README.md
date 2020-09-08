@@ -17,3 +17,9 @@ Or you can input `yaogua_gui` to use the gui app. the gui showing below.
 ## exe下载
 
 [下载链接](https://1drv.ms/u/s!AuCYFvwp2KHMgo18rdSRLjpXHeucUg?e=wrU2qy)
+
+
+
+## 视频讲解
+
+<iframe width="638" height="493" src="//player.bilibili.com/player.html?aid=839523691&bvid=BV1F54y1m7E1&cid=233400733&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
